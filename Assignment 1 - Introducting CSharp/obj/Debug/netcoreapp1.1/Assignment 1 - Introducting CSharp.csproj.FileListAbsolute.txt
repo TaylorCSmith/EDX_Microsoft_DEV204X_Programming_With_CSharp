@@ -1,0 +1,9 @@
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\bin\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.deps.json
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\bin\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.runtimeconfig.json
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\bin\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.runtimeconfig.dev.json
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\bin\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.dll
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\bin\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.pdb
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\obj\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.csprojResolveAssemblyReference.cache
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\obj\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.AssemblyInfo.cs
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\obj\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.dll
+c:\users\taylo\onedrive\documents\visual studio 2017\Projects\Assignment 1 - Introducting CSharp\obj\Debug\netcoreapp1.1\Assignment 1 - Introducting CSharp.pdb
